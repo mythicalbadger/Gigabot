@@ -1,1 +1,1 @@
-# MUICCS-RoleBot
+# Gigabot
